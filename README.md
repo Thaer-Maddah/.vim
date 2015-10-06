@@ -1,9 +1,7 @@
 vim
-<<<<<<< HEAD
 =====
-<<<<<<< HEAD
-1-Copy files to folder ~/.vim
-2-Copy vimrc file to ~/.vimrc
+1-Copy files to folder ~/.vim.
+2-Copy vimrc file to ~/.vimrc.
 3-Enjoy!.
 =======
 1-Copy files to folder ~/.vim 
