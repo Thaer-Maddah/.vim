@@ -1,9 +1,9 @@
 vim
 <<<<<<< HEAD
 =====
-1-Copy files to folder ~/.vim
-2-Copy vimrc file to ~/.vimrc
-3-Enjoy!.
+1-Copy files to folder ~/.vim 
+2-Copy vimrc file to ~/.vimrc 
+3-Enjoy!. 
 
 This is vim repo!!.
 
